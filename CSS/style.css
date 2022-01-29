@@ -142,10 +142,7 @@ section.imagem img {
     section.images img {
         width: 110%;
     }
-
-    section.images .circle {
-        clip-path: circle(35% at right 80%);
-    }
+  
 }
 
 @media only screen and (max-width: 1024px) {
